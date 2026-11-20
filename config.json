@@ -1,0 +1,50 @@
+{
+  "feeds": [
+    {"name": "HotUKDeals – new", "url": https://www.hotukdeals.com/rss/new},
+    {"name": "HotUKDeals – hot", "url": https://www.hotukdeals.com/rss/hot}
+  ],
+ 
+  "error_words": [
+    "price error",
+    "pricing error",
+    "price glitch",
+    "pricing glitch",
+    "glitch",
+    "misprice",
+    "mispriced",
+    "price mistake",
+    "listing error",
+    "error?"
+  ],
+ 
+  "watch": {
+    "sofa": 100,
+    "corner sofa": 150,
+    "ipad": 100,
+    "iphone": 150,
+    "macbook": 200,
+    "airpods": 30,
+    "nintendo switch": 100,
+    "switch 2": 150,
+    "ps5": 150,
+    "playstation 5": 150,
+    "xbox series": 100,
+    "oled": 150,
+    "dyson": 60,
+    "fridge freezer": 60,
+    "washing machine": 60,
+    "hot tub": 100,
+    "garden furniture": 40,
+    "mattress": 40,
+    "laptop": 100
+  },
+ 
+  "max_share_of_was_price": 0.2,
+  "min_was_price": 50,
+ 
+  "ignore_words": ["expired"],
+ 
+  "skip_alerts_on_first_run": true,
+  "remember_last": 3000
+}
+ 
