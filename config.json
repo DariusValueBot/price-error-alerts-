@@ -1,0 +1,183 @@
+{
+  "feeds": [
+    {
+      "name": "HotUKDeals new",
+      "url": "https://www.hotukdeals.com/rss/new"
+    },
+    {
+      "name": "HotUKDeals hot",
+      "url": "https://www.hotukdeals.com/rss/hot"
+    },
+    {
+      "name": "LatestDeals (test)",
+      "url": "https://www.latestdeals.co.uk/rss"
+    }
+  ],
+  "pages": [
+    {
+      "name": "Argos sofas",
+      "url": "https://www.argos.co.uk/browse/home-and-furniture/sofas/c:797722/",
+      "max_price": 100
+    },
+    {
+      "name": "Argos Home sofa beds",
+      "url": "https://www.argos.co.uk/browse/home-and-furniture/living-room-furniture/sofa-beds/c:29644/brands:argos-home/",
+      "max_price": 80
+    },
+    {
+      "name": "Dunelm sofas",
+      "url": "https://www.dunelm.com/category/home-and-furniture/furniture/sofas-and-chairs/sofas",
+      "max_price": 100
+    },
+    {
+      "name": "Dunelm sofas and chairs",
+      "url": "https://www.dunelm.com/category/home-and-furniture/furniture/sofas-and-chairs/all-sofas-and-chairs",
+      "max_price": 40
+    },
+    {
+      "name": "B&Q garden sofas",
+      "url": "https://www.diy.com/outdoor-garden/garden-furniture/garden-seating/garden-sofas.cat",
+      "max_price": 80
+    },
+    {
+      "name": "B&Q garden furniture sets",
+      "url": "https://www.diy.com/outdoor-garden/garden-furniture/garden-furniture-sets.cat?Ns=",
+      "max_price": 60
+    },
+    {
+      "name": "Argos iPads",
+      "url": "https://www.argos.co.uk/browse/technology/tablets-and-ipad/ipad/c:30158/",
+      "max_price": 150
+    },
+    {
+      "name": "Argos tablets",
+      "url": "https://www.argos.co.uk/browse/technology/tablets-and-ipad/tablets/c:30159/",
+      "max_price": 40
+    },
+    {
+      "name": "Argos PS5 consoles",
+      "url": "https://www.argos.co.uk/browse/technology/video-games-and-consoles/playstation/ps5-consoles/c:812421/",
+      "max_price": 150
+    },
+    {
+      "name": "Argos Nintendo Switch consoles",
+      "url": "https://www.argos.co.uk/browse/technology/video-games-and-consoles/nintendo-switch/nintendo-switch-consoles/c:30293/",
+      "max_price": 100
+    },
+    {
+      "name": "Argos handheld consoles",
+      "url": "https://www.argos.co.uk/browse/technology/video-games-and-consoles/handheld-gaming-consoles/c:1043647/",
+      "max_price": 60
+    },
+    {
+      "name": "Argos washing machines",
+      "url": "https://www.argos.co.uk/browse/appliances/laundry/washing-machines/c:29612/type:freestanding-washing-machines/",
+      "max_price": 80
+    },
+    {
+      "name": "Currys TVs",
+      "url": "https://www.currys.co.uk/tv-and-audio/televisions/tvs?sz=50",
+      "max_price": 50
+    },
+    {
+      "name": "Currys laptops",
+      "url": "https://www.currys.co.uk/computing/laptops/laptops?sz=50",
+      "max_price": 80
+    },
+    {
+      "name": "Currys Windows laptops",
+      "url": "https://www.currys.co.uk/computing/laptops/laptops/windows-laptops",
+      "max_price": 80
+    },
+    {
+      "name": "Currys refurbished laptops",
+      "url": "https://www.currys.co.uk/computing/laptops/refurbished-laptops",
+      "max_price": 50
+    }
+  ],
+  "page_every_minutes": 30,
+  "min_believable_price": 0.5,
+  "error_words": [
+    "price error",
+    "pricing error",
+    "price glitch",
+    "pricing glitch",
+    "glitch",
+    "misprice",
+    "mispriced",
+    "price mistake",
+    "listing error",
+    "error?"
+  ],
+  "watch": {
+    "iphone": 150,
+    "ipad": 100,
+    "macbook": 200,
+    "imac": 250,
+    "apple watch": 60,
+    "airpods": 30,
+    "samsung galaxy": 100,
+    "google pixel": 100,
+    "laptop": 100,
+    "gaming laptop": 200,
+    "chromebook": 40,
+    "monitor": 30,
+    "tv": 80,
+    "oled": 150,
+    "qled": 120,
+    "soundbar": 30,
+    "bose": 40,
+    "sonos": 50,
+    "kindle": 25,
+    "ps5": 150,
+    "playstation 5": 150,
+    "xbox series": 100,
+    "nintendo switch": 100,
+    "switch 2": 150,
+    "steam deck": 120,
+    "meta quest": 80,
+    "gopro": 50,
+    "dji": 60,
+    "sofa": 100,
+    "corner sofa": 150,
+    "sofa bed": 80,
+    "armchair": 40,
+    "bed frame": 40,
+    "mattress": 40,
+    "wardrobe": 40,
+    "dining table": 50,
+    "office chair": 25,
+    "gaming chair": 30,
+    "fridge freezer": 60,
+    "washing machine": 60,
+    "tumble dryer": 60,
+    "dishwasher": 60,
+    "range cooker": 100,
+    "bean to cup": 60,
+    "kitchenaid": 60,
+    "dyson": 60,
+    "robot vacuum": 50,
+    "garden furniture": 40,
+    "rattan": 50,
+    "hot tub": 100,
+    "lawn mower": 40,
+    "shed": 50,
+    "pressure washer": 30,
+    "treadmill": 60,
+    "exercise bike": 50,
+    "rowing machine": 50,
+    "golf clubs": 50,
+    "golf driver": 30,
+    "electric bike": 150,
+    "e-bike": 150,
+    "electric scooter": 60
+  },
+  "error_discount": 0.8,
+  "great_deal_discount": 0.6,
+  "min_was_price": 50,
+  "ignore_words": [
+    "expired"
+  ],
+  "summary_hour": 8,
+  "remember_last": 4000
+}
